@@ -1,0 +1,56 @@
+.box1{
+    width: 45%;
+    margin: auto;
+}
+
+.box1.box1_1{
+    width: 45%;
+    margin: auto;
+}
+.box1_1 img{
+    width: 100%;
+}
+
+.row{
+    display:flex ;
+    flex-wrap: wrap;
+}
+.box2{
+    width: 30%;
+    font-size: 15px;
+    margin: auto;
+    background-color: rgb(182, 198, 212);
+}
+.box2_1{
+    color: brown;
+}
+.sad{
+    color: green;
+}
+.box3_3{
+    width: 45%;
+    margin: auto;
+}
+.box4{
+    width: 30%;
+    background-color: rgb(136, 88, 181);
+}
+.box44{
+    width: 70%;
+    background-color: rgb(149, 107, 188);
+}
+.box44.box4_1{
+    width: 45%;
+    margin: auto;
+}
+
+.box4_1.img{
+    width: 30%;
+
+}
+.hh{
+    font-size: 30px;
+    text-align: center;
+}
+
+
